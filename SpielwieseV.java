@@ -12,6 +12,7 @@ public class SpielwieseV {
 		for (int i = 0; i<10; i++) {
 			System.out.println("Hello World");
 		}
+		System.out.print("Hi");
 
 
 	}
