@@ -6,6 +6,7 @@ public class SpielwieseV {
 		System.out.println("Hello World");
 		System.out.println("Was geeht");
 		System.out.println("Test");
+		System.out.println("Test2");
 
 	}
 
